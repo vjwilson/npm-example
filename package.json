@@ -1,0 +1,28 @@
+{
+  "name": "thefacebook",
+  "version": "0.0.1",
+  "description": "Totally original social networking site, with lots of permissions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjwilson/thefacebook.git"
+  },
+  "keywords": [
+    "social"
+  ],
+  "author": "Van J. Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vjwilson/thefacebook/issues"
+  },
+  "homepage": "https://github.com/vjwilson/thefacebook#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
